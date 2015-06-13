@@ -1,8 +1,10 @@
 # ChatApp_JAVA
 ##자바를 이용한 다자간 채팅 프로그램 (JAVA)
 ###[파일 링크](https://github.com/knh21c/ChatApp_JAVA/archive/master.zip)
+###실행파일은 ExecutableFiles폴더 안에 있습니다.
 
-실행 화면
+
+*실행 화면
 
 1 서버 실행 UI
 
@@ -47,3 +49,4 @@
 11 강퇴당한 사용자(팝업 메세지)
 
 ![alt text] (screenshots/11.png)
+###
